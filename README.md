@@ -73,9 +73,10 @@ Grab a snack — this is going to be fun. 😉
 
 ---
 
-## 🐍 Contribution Snake — because of course.
+## 🐍 Contribution Snake — because why not
 
 ![Snake animation](https://raw.githubusercontent.com/saloniilad/saloniilad/output/github-contribution-grid-snake.svg)
+
 
 ---
 
