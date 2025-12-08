@@ -18,7 +18,7 @@ Grab a snack — this is going to be fun. 😉
 ## 🚀 What I Actually Do:
 - Build websites that *probably* look better than my sleep schedule.
 - Make ML models that behave only when I bribe them with more data.
-- Lead projects because someone thought I was responsible enough (I’m the PM of an AI ride-sharing platform… yes, really).
+- Sometimes leading projects because someone thought I was responsible enough.
 - Fix bugs I created myself.
 - Google things I should already know.
 
@@ -68,7 +68,7 @@ Grab a snack — this is going to be fun. 😉
 ---
 
 ## 📈 GitHub Stats — Proof I Actually Work
-![Saloni’s Stats](https://github-readme-stats.vercel.app/api?username=saloniilad&show_icons=true&theme=tokyonight)
+![Saloni’s Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=saloniilad&show_icons=true&theme=tokyonight)
 
 ---
 
