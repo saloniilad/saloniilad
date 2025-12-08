@@ -68,7 +68,7 @@ Grab a snack — this is going to be fun. 😉
 ---
 
 ## 📈 GitHub Stats — Proof I Actually Work
-![Saloni’s Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=saloniilad&show_icons=true&theme=tokyonight)
+![Saloni’s Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=saloniilad&show_icons=true&theme=tokyonight)
 
 ---
 
