@@ -25,16 +25,17 @@ Grab a snack — this is going to be fun. 😉
 ---
 
 ## 🌐 Socials — Stalk Me Professionally
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_IG)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](YOUR_HACKERRANK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-lad-511b65299/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/celloniii/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/LoniCodes/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/saloniladd)
+[![GfG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/saloni2aux)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saloniladd@gmail.com)
 
 ---
 
 ## 🛠 Tech Stack (aka: things I pretend to know)
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,mysql,figma)
+![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,java,python,git,github,c,c++)
 
 ---
 
@@ -46,21 +47,16 @@ Grab a snack — this is going to be fun. 😉
 ---
 
 ## 🏆 Projects I’m Proud Of (and didn’t rage quit)
-- 🔥 **AI-Based Ride Sharing Platform** – PM + Tech Head  
-  *Yes, I lead a whole AI project while drinking chai.*
-  
-- 🌿 **Carbon Footprint Analysis Website**  
-  Helps you understand how your daily habits are silently destroying the planet.
 
-- 📱 **Smart Pill Dispenser (IoT + ML)**  
-  Because elderly people deserve better—and also because it sounds cool.
+- 🎬 **MediaMeld – Auto Reel Generator**  
+  *Flask, Python, FFmpeg, ElevenLabs API*  
+  Turns your photos into aesthetic short reels because manual editing is overrated.  
+  Integrated ElevenLabs TTS + FFmpeg to auto-generate voiceovers and render videos like magic.
 
-- 👩‍💻 **Shakti Kendra Website**  
-  A resource hub for women in rural India.
-
-- 🛸 **Drone Building Workshop**  
-  Yes, I built a drone. No, it did not crash. (Okay maybe once.)
-
+- 📄 **pdfGlue – Online PDF Merger**  
+  *Flask, Python, PyPDF2, HTML/CSS/JS*  
+  Built a clean and secure PDF-merging app with drag-and-drop support.  
+  Uses UUID-based file handling so your PDFs don’t bully each other.
 ---
 
 ## 😂 Fun Facts
@@ -72,13 +68,13 @@ Grab a snack — this is going to be fun. 😉
 ---
 
 ## 📈 GitHub Stats — Proof I Actually Work
-![Saloni’s Stats](https://github-readme-stats.vercel.app/api?username=salonilad&show_icons=true&theme=tokyonight)
+![Saloni’s Stats](https://github-readme-stats.vercel.app/api?username=saloniilad&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🐍 Contribution Snake — because of course.
 
-![Snake animation](https://raw.githubusercontent.com/salonilad/salonilad/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/saloniilad/saloniilad/output/github-contribution-grid-snake.svg)
 
 ---
 
